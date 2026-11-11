@@ -1,0 +1,24 @@
+Folder PATH listing for volume OS
+Volume serial number is CC47-0AEE
+C:\USERS\ASUS\ONEDRIVE\DOCUMENTS\PAYPAL HACKATHON\VERIFLOW\APP
+|   db.server.ts
+|   entry.server.tsx
+|   globals.d.ts
+|   root.tsx
+|   routes.ts
+|   shopify.server.ts
+|   
+\---routes
+    |   app.additional.tsx
+    |   app.tsx
+    |   app._index.tsx
+    |   auth.$.tsx
+    |   webhooks.app.scopes_update.tsx
+    |   webhooks.app.uninstalled.tsx
+    |   webhooks.products.update.tsx
+    |   
+    \---_index
+            error.server.tsx
+            route.tsx
+            styles.module.css
+            
